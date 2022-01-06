@@ -2,4 +2,4 @@
 
 cd Hacker12
 
-python2 Hacker12.py
+python2 Sonatoni12.py
